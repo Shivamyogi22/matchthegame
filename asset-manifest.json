@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ab06961.css",
+    "main.js": "/static/js/main.f33c39cc.js",
+    "static/media/strawberry.png": "/static/media/strawberry.ae7df43a734d60498347.png",
+    "static/media/bg_blank.png": "/static/media/bg_blank.d1da870ab1bf7e2148c7.png",
+    "static/media/Plum.png": "/static/media/Plum.d47827f32d37b8522819.png",
+    "static/media/papaya.png": "/static/media/papaya.eca962ffcf2b267d1c5d.png",
+    "static/media/Banana.png": "/static/media/Banana.750b7d8a3f7614c35c73.png",
+    "static/media/monkey1.png": "/static/media/monkey1.a00000308cd1a03dbd21.png",
+    "static/media/grape.png": "/static/media/grape.647ee0647d48d2938fc4.png",
+    "static/media/mango.png": "/static/media/mango.432dd28e04179e6c89a9.png",
+    "static/media/Kiwi.png": "/static/media/Kiwi.6c64889f82649d7c5ab2.png",
+    "static/media/pineapple.png": "/static/media/pineapple.0bebc5a161a4019a6f14.png",
+    "static/media/Sandwich.png": "/static/media/Sandwich.19a9082643a8632cb351.png",
+    "static/media/monkey2.png": "/static/media/monkey2.5575e2b91e710c5c31d3.png",
+    "static/media/watermelon.png": "/static/media/watermelon.264491036a6edd7b8711.png",
+    "static/media/orange.png": "/static/media/orange.9cf1513bc2844fdfaf8b.png",
+    "static/media/apple.png": "/static/media/apple.4f76b118c1e520ebb99b.png",
+    "index.html": "/index.html",
+    "main.4ab06961.css.map": "/static/css/main.4ab06961.css.map",
+    "main.f33c39cc.js.map": "/static/js/main.f33c39cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ab06961.css",
+    "static/js/main.f33c39cc.js"
+  ]
+}
